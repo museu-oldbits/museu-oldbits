@@ -9,9 +9,9 @@ Olá! Sou Dr. Jaldomir, Doutor em Ciências com pesquisas focadas em audionavega
 
 ---
 
-O Museu OldBits
+Museu OldBits
 
-Museu OldBits é uma iniciativa que preserva o legado dos computadores e consoles clássicos, com um acervo que permite resgatar a história da tecnologia de forma única. Meu objetivo é compartilhar esse acervo com as pessoas, oferecendo insights sobre as tecnologias que moldaram o passado e ainda inspiram o presente.
+O Museu OldBits é uma iniciativa que preserva o legado dos computadores e consoles clássicos, com um acervo que permite resgatar a história da tecnologia de forma única. Meu objetivo é compartilhar esse acervo com as pessoas, oferecendo insights sobre as tecnologias que moldaram o passado e ainda inspiram o presente.
 
 No Museu OldBits, trabalhamos com:
 
