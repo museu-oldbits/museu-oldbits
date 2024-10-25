@@ -21,23 +21,23 @@ No Museu OldBits, trabalhamos com:
 
 - Criação de manuais, guias técnicos, históricos e educativos sobre tecnologias antigas
 
-
-
 ---
 
 Projetos em Destaque
 
-- Projeto NavGate: Orientação Ambiental para Pessoas com Deficiencia Visual em Espaços Públicos
+- Projeto NavGate
+
+Orientação Ambiental para Pessoas com Deficiencia Visual em Espaços Públicos
 
 Atualmente, estou desenvolvendo o NavGate, um projeto focado em audionavegação para auxiliar pessoas com deficiência visual a se locomoverem em ambientes públicos. Utilizando tecnologias de sensores direcionais, o NavGate é uma solução moderna e acessível para promover a inclusão em espaços urbanos.
-
-- Restauração e Reengenharia Eletrônica
-
-Nossa equipe está constantemente restaurando e desenvolvendo novas soluções eletrônicas para equipamentos antigos, com foco na preservação de hardware clássico e no entendimento da engenharia por trás desses dispositivos históricos, como por exemplo o projeto Pegasus.
 
 - Projeto Pegasus
 
 A história dos brinquedos da empresa brasileira Estrela (Manufatura de Brinquedos Estrela S/A) passa pelo desenvolvimento dos automodelos Pegasus, Colossus e Maximus. Estamos restaurando e modernizando a eletrônica desses icônicos brinquedos da década de 1980.
+
+- Restauração e Reengenharia Eletrônica
+
+Nossa equipe está constantemente restaurando e desenvolvendo novas soluções eletrônicas para equipamentos antigos, com foco na preservação de hardware clássico e no entendimento da engenharia por trás desses dispositivos históricos, como por exemplo o projeto Pegasus.
 
 ---
 Como Entrar em Contato
