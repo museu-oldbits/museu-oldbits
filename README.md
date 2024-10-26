@@ -1,15 +1,13 @@
 ---
+Bem-vindo ao Museu OldBits
 
-👋 Bem-vindo ao Museu OldBits
 
-Sobre Mim
-
-Olá! Sou Dr. Jaldomir, Doutor em Ciências com pesquisas focadas em audionavegação e design de interfaces acessíveis. Profissional em eletrônica e design, tenho experiência em desenvolvimento de soluções acessíveis e restauração de eletrônicos históricos. Atualmente, atuo como curador do Museu OldBits, onde preservo e restauro computadores, videogames e dispositivos das décadas de 1980, 1990 e 2000.
-
+👋 Olá! Sou Dr. Jaldomir, Doutor em Ciências com pesquisas focadas em audionavegação e design de interfaces acessíveis, e trago o canal Museu OldBits.
+Desenvolvedor em eletrônica e design, tenho experiência em soluções de acessibilidade.
+Atualmente, atuo como curador do Museu OldBits, onde preservo e restauro a história dos computadores, videogames e dispositivos das décadas de 1980, 1990 e 2000.
 
 ---
-
-Museu OldBits
+![oldbits_github](https://github.com/user-attachments/assets/8e5c79cb-b2f1-4470-ad65-534ef6da51cf)
 
 O Museu OldBits é uma iniciativa que preserva o legado dos computadores e consoles clássicos, com um acervo que permite resgatar a história da tecnologia de forma única. Meu objetivo é compartilhar esse acervo com as pessoas, oferecendo insights sobre as tecnologias que moldaram o passado e ainda inspiram o presente.
 
@@ -25,17 +23,21 @@ No Museu OldBits, trabalhamos com:
 
 Projetos em Destaque
 
-- Projeto NavGate
+Projeto NavGate - Orientação Ambiental para Pessoas com Deficiencia Visual em Espaços Públicos
+--
+![navgate_logo_material](https://github.com/user-attachments/assets/78957522-dfad-493b-bbe9-9936134ea8fb)
 
-Orientação Ambiental para Pessoas com Deficiencia Visual em Espaços Públicos
+O NavGate é um projeto focado em audionavegação para auxiliar pessoas com deficiência visual a se locomoverem em ambientes públicos. Utilizando tecnologias de sensores direcionais, o NavGate é uma solução moderna e acessível para promover a inclusão em espaços urbanos.
 
-Atualmente, estou desenvolvendo o NavGate, um projeto focado em audionavegação para auxiliar pessoas com deficiência visual a se locomoverem em ambientes públicos. Utilizando tecnologias de sensores direcionais, o NavGate é uma solução moderna e acessível para promover a inclusão em espaços urbanos.
-
-- Projeto Pegasus
+Projeto Pegasus
+--
+![pegasus](https://github.com/user-attachments/assets/b63e0fc3-5c9b-4028-b233-3c3015b9079b)
 
 A história dos brinquedos da empresa brasileira Estrela (Manufatura de Brinquedos Estrela S/A) passa pelo desenvolvimento dos automodelos Pegasus, Colossus e Maximus. Estamos restaurando e modernizando a eletrônica desses icônicos brinquedos da década de 1980.
 
-- Restauração e Reengenharia Eletrônica
+Restauração e Reengenharia Eletrônica
+--
+![restauração](https://github.com/user-attachments/assets/b5d0f399-edb9-4bfb-a292-5b08d53b7401)
 
 Nossa equipe está constantemente restaurando e desenvolvendo novas soluções eletrônicas para equipamentos antigos, com foco na preservação de hardware clássico e no entendimento da engenharia por trás desses dispositivos históricos, como por exemplo o projeto Pegasus.
 
